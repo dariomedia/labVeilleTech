@@ -37,7 +37,7 @@ params:
     profileMode:
         enabled: true
         title: Dario Antonini
-        imageUrl: "/resources/_gen/images/photoDarioAntonini.png"
+        imageUrl: "images/profile.png"
         imageTitle: image Dario Antonini
         # imageWidth: 120
         # imageHeight: 120
