@@ -1,5 +1,5 @@
 baseURL: # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: charlola.mode
+title: dariomedia
 paginate: 5
 theme: charlolamode
 
@@ -7,8 +7,8 @@ theme: charlolamode
 
 menu:
     main:
-        - name: Contact
-          url: contact/
+        - name: À propos
+          url: a-propos/
           weight: 30
         - name: Articles
           url: articles/
@@ -41,19 +41,17 @@ params:
         imageTitle: image Dario Antonini
         # imageWidth: 120
         # imageHeight: 120
-        buttons:
-            - name: Don't click me
-              url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+       
     mainSections:
       - articles
 
     socialIcons:
-        - name: buymeacoffee
-          url: "https://ko-fi.com/heycharlola"
+        - name: ux planet
+          url: "https://uxplanet.org/"
         - name: github
-          url: "https://github.com/charlola"
+          url: "https://github.com/dariomedia"
         - name: linkedin
-          url: "https://www.linkedin.com/in/heycharlola/"
+          url: "https://www.linkedin.com/in/antoninidario/"
 
       # add more social icons. find more in svg.html file
       # - name: youtube
