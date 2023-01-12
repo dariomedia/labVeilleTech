@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>charlola.mode</title>
+    <title>dariomedia</title>
     <link>/</link>
-    <description>Recent content on charlola.mode</description>
+    <description>Recent content on dariomedia</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 12 Dec 2022 12:08:37 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,24 @@
       <guid>/articles/uiappmobiles/</guid>
       <description>L&amp;rsquo;interface utilisateur (UI) joue un rôle crucial dans les applications mobiles. C&amp;rsquo;est ce que l&amp;rsquo;utilisateur voit et interagit avec lorsqu&amp;rsquo;il utilise une application, et c&amp;rsquo;est ce qui peut faire la différence entre une application réussie et une application qui ne fonctionne pas bien.
 Une bonne UI doit être intuitive et facile à utiliser. Elle doit permettre à l&amp;rsquo;utilisateur de naviguer facilement dans l&amp;rsquo;application et de trouver ce qu&amp;rsquo;il cherche sans trop d&amp;rsquo;efforts.</description>
+    </item>
+    
+    <item>
+      <title>PortfolioUX</title>
+      <link>/articles/portfolioux/</link>
+      <pubDate>Mon, 12 Dec 2022 11:59:58 +0100</pubDate>
+      
+      <guid>/articles/portfolioux/</guid>
+      <description>bla bla bla</description>
+    </item>
+    
+    <item>
+      <title>test 2</title>
+      <link>/articles/test2/</link>
+      <pubDate>Mon, 12 Dec 2022 11:59:58 +0100</pubDate>
+      
+      <guid>/articles/test2/</guid>
+      <description>bla bla bla</description>
     </item>
     
   </channel>
