@@ -8,30 +8,63 @@
     <lastBuildDate>Mon, 12 Dec 2022 12:08:37 +0100</lastBuildDate><atom:link href="/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L&#39;importance de l&#39;UI pour les applications mobiles</title>
-      <link>/articles/uiappmobiles/</link>
+      <link>/articles/03-uiappmobiles/</link>
       <pubDate>Mon, 12 Dec 2022 12:08:37 +0100</pubDate>
       
-      <guid>/articles/uiappmobiles/</guid>
+      <guid>/articles/03-uiappmobiles/</guid>
       <description>L&amp;rsquo;interface utilisateur (UI) joue un rôle crucial dans les applications mobiles. C&amp;rsquo;est ce que l&amp;rsquo;utilisateur voit et interagit avec lorsqu&amp;rsquo;il utilise une application, et c&amp;rsquo;est ce qui peut faire la différence entre une application réussie et une application qui ne fonctionne pas bien.
 Une bonne UI doit être intuitive et facile à utiliser. Elle doit permettre à l&amp;rsquo;utilisateur de naviguer facilement dans l&amp;rsquo;application et de trouver ce qu&amp;rsquo;il cherche sans trop d&amp;rsquo;efforts.</description>
     </item>
     
     <item>
-      <title>PortfolioUX</title>
+      <title>Des spécialisations en tant que UX/UI Designer</title>
+      <link>/articles/02-specialisationsuxdesigner/</link>
+      <pubDate>Mon, 12 Dec 2022 11:59:58 +0100</pubDate>
+      
+      <guid>/articles/02-specialisationsuxdesigner/</guid>
+      <description>Voici quelques domaines spécifiques dans lesquels un designer UX/UI peut se spécialiser :
+Design mobile : Ce domaine concerne la conception d&amp;rsquo;interfaces utilisateur pour les appareils mobiles, tels que les smartphones et les tablettes. Les designers doivent tenir compte des contraintes d&amp;rsquo;écran plus petites et des interactions tactiles dans la conception de ces interfaces.
+Design de sites web : Ce domaine concerne la conception d&amp;rsquo;interfaces utilisateur pour les sites web. Les designers doivent tenir compte des différentes tailles d&amp;rsquo;écran et des interactions à la souris dans la conception de ces interfaces.</description>
+    </item>
+    
+    <item>
+      <title>La veille d&#39;un UX/UI Designer</title>
+      <link>/articles/04-veilleuxdesigner/</link>
+      <pubDate>Mon, 12 Dec 2022 11:59:58 +0100</pubDate>
+      
+      <guid>/articles/04-veilleuxdesigner/</guid>
+      <description>Voici quelques conseils pour rester à jour en tant que designer UX/UI :
+Participer à des communautés en ligne : Il existe de nombreuses communautés en ligne dédiées aux designers UX/UI, comme des groupes sur les réseaux sociaux, des forums ou des blogs. Ces communautés permettent de discuter des dernières tendances, de partager des idées et de recevoir des commentaires sur son travail.
+Suivre les blogs et les sites d&amp;rsquo;actualités UX/UI : Il existe de nombreux blogs et sites d&amp;rsquo;actualités qui couvrent les dernières tendances en matière de design d&amp;rsquo;interface utilisateur.</description>
+    </item>
+    
+    <item>
+      <title>Les outils indispensables d&#39;un UX/UI Designer</title>
+      <link>/articles/01-outilsuxdesigner/</link>
+      <pubDate>Mon, 12 Dec 2022 11:59:58 +0100</pubDate>
+      
+      <guid>/articles/01-outilsuxdesigner/</guid>
+      <description>Les outils utilisés par les designers UX/UI varient en fonction de leurs préférences et de leurs projets, mais voici quelques outils qui sont souvent considérés comme étant indispensables pour un designer UX/UI:
+Outils de wireframing et prototypage : Ces outils permettent aux designers de créer des maquettes de leurs interfaces utilisateur pour visualiser et tester les idées avant de les mettre en production. Exemples : Sketch, Figma, Adobe XD, InVision.</description>
+    </item>
+    
+    <item>
+      <title>Mes sources, mes inspirations</title>
+      <link>/articles/05monsystemeveille/</link>
+      <pubDate>Mon, 12 Dec 2022 11:59:58 +0100</pubDate>
+      
+      <guid>/articles/05monsystemeveille/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mon portfolio dans le domaine de l&#39;UX Design</title>
       <link>/articles/portfolioux/</link>
       <pubDate>Mon, 12 Dec 2022 11:59:58 +0100</pubDate>
       
       <guid>/articles/portfolioux/</guid>
-      <description>bla bla bla</description>
-    </item>
-    
-    <item>
-      <title>test 2</title>
-      <link>/articles/test2/</link>
-      <pubDate>Mon, 12 Dec 2022 11:59:58 +0100</pubDate>
-      
-      <guid>/articles/test2/</guid>
-      <description>bla bla bla</description>
+      <description>bla bla
+https://uxplanet.org/how-to-structure-your-first-ux-design-portfolio-7b51576a04df</description>
     </item>
     
   </channel>
