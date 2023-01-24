@@ -26,7 +26,7 @@ Dans ma vie, j'ai le sentiment d'avoir accompli beaucoup de choses, qui sait com
 
 Voici tout de suite mon ikigai complet de mes informations : 
 
-![imageIkigai](/images/ikigaiRempli.png "Ikigai")
+![imageIkigai](/labVeilleTech/images/ikigaiRempli.png "Ikigai")
 
 &nbsp;
 
@@ -34,7 +34,7 @@ Voici tout de suite mon ikigai complet de mes informations :
 
 Afin de comprendre mieux l’univers d’UX/UI Design, voici la fiche de domaine en relation aussi à mes intérêts :
 
-![imageFicheDomaine](/images/ficheDomaineRempli.png "Fiche Domaine")
+![imageFicheDomaine](/labVeilleTech/images/ficheDomaineRempli.png "Fiche Domaine")
 
 &nbsp;
 

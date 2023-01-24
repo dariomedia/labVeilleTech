@@ -1,6 +1,6 @@
 ---
-title: "Rester au top en tant qu'UX/UI Designer"
-date: 2023-01-22T11:59:58+01:00
+title: "Les trends en UI Design "
+date: 2023-01-24T11:59:58+01:00
 draft: false
 ---
 
@@ -8,7 +8,7 @@ draft: false
 
 Le métier de designer UX/UI nécessite des connaissances approfondies en matière de graphisme et la capacité à interpréter les besoins des utilisateurs d'une interface. Cependant, pour réussir dans ce domaine, il est essentiel de rester constamment à jour sur les dernières tendances pour éviter que nos projets ne soient dépassés et banals.
 
-![imageConference](/images/conference.jpg "Conférence")
+![imageConference](/labVeilleTech/images/conference.jpg "Conférence")
 
 &nbsp;
 
