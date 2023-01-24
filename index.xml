@@ -8,30 +8,30 @@
     <lastBuildDate>Sun, 22 Jan 2023 11:59:58 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rester au top en tant qu&#39;UX/UI Designer</title>
-      <link>/articles/04-veilleuxdesigner/</link>
+      <link>/articles/test-veilleuxdesigner/</link>
       <pubDate>Sun, 22 Jan 2023 11:59:58 +0100</pubDate>
       
-      <guid>/articles/04-veilleuxdesigner/</guid>
+      <guid>/articles/test-veilleuxdesigner/</guid>
       <description>Le métier de designer UX/UI nécessite des connaissances approfondies en matière de graphisme et la capacité à interpréter les besoins des utilisateurs d&amp;rsquo;une interface. Cependant, pour réussir dans ce domaine, il est essentiel de rester constamment à jour sur les dernières tendances pour éviter que nos projets ne soient dépassés et banals.
  Le web regorge de personnes partageant leurs travaux pour montrer leurs compétences ou demander des conseils. Il est parfois bon de faire des recherches, de regarder autour de soi et de ne retenir que les choses les plus importantes et qui nous intéressent.</description>
     </item>
     
     <item>
       <title>L&#39;importance de l&#39;UI pour les applications mobiles</title>
-      <link>/articles/03-uiappmobiles/</link>
+      <link>/articles/test-uiappmobiles/</link>
       <pubDate>Mon, 12 Dec 2022 12:08:37 +0100</pubDate>
       
-      <guid>/articles/03-uiappmobiles/</guid>
+      <guid>/articles/test-uiappmobiles/</guid>
       <description>L&amp;rsquo;interface utilisateur (UI) joue un rôle crucial dans les applications mobiles. C&amp;rsquo;est ce que l&amp;rsquo;utilisateur voit et interagit avec lorsqu&amp;rsquo;il utilise une application, et c&amp;rsquo;est ce qui peut faire la différence entre une application réussie et une application qui ne fonctionne pas bien.
 Une bonne UI doit être intuitive et facile à utiliser. Elle doit permettre à l&amp;rsquo;utilisateur de naviguer facilement dans l&amp;rsquo;application et de trouver ce qu&amp;rsquo;il cherche sans trop d&amp;rsquo;efforts.</description>
     </item>
     
     <item>
       <title>Des spécialisations en tant que UX/UI Designer</title>
-      <link>/articles/02-specialisationsuxdesigner/</link>
+      <link>/articles/test-specialisationsuxdesigner/</link>
       <pubDate>Mon, 12 Dec 2022 11:59:58 +0100</pubDate>
       
-      <guid>/articles/02-specialisationsuxdesigner/</guid>
+      <guid>/articles/test-specialisationsuxdesigner/</guid>
       <description>Voici quelques domaines spécifiques dans lesquels un designer UX/UI peut se spécialiser :
 Design mobile : Ce domaine concerne la conception d&amp;rsquo;interfaces utilisateur pour les appareils mobiles, tels que les smartphones et les tablettes. Les designers doivent tenir compte des contraintes d&amp;rsquo;écran plus petites et des interactions tactiles dans la conception de ces interfaces.
 Design de sites web : Ce domaine concerne la conception d&amp;rsquo;interfaces utilisateur pour les sites web. Les designers doivent tenir compte des différentes tailles d&amp;rsquo;écran et des interactions à la souris dans la conception de ces interfaces.</description>
@@ -39,10 +39,10 @@ Design de sites web : Ce domaine concerne la conception d&amp;rsquo;interfaces u
     
     <item>
       <title>Le kit de survie d&#39;un UX/UI Designer</title>
-      <link>/articles/01-outilsuxdesigner/</link>
+      <link>/articles/test-outilsuxdesigner/</link>
       <pubDate>Mon, 12 Dec 2022 11:59:58 +0100</pubDate>
       
-      <guid>/articles/01-outilsuxdesigner/</guid>
+      <guid>/articles/test-outilsuxdesigner/</guid>
       <description>Les outils incontournables pour les designers UX/UI varient en fonction de leurs préférences et de leurs projets, mais voici quelques-uns qui sont souvent considérés comme étant essentiel.
  Les outils de :
   Wireframing et prototypage : tels que Sketch, Figma, Adobe XD, InVision, ils permettent aux designers de créer des maquettes de leurs interfaces pour visualiser et tester leurs idées avant de les mettre en production.
