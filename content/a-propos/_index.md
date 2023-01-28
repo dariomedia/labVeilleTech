@@ -2,7 +2,7 @@
 
 &nbsp;
 
-![imageDario](/images/photoPropos.png "Dario")
+![imageDario](/labVeilleTech/images/photoPropos.png "Dario")
 
 &nbsp;
 
