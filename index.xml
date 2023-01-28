@@ -5,48 +5,24 @@
     <link>/</link>
     <description>Recent content on dariomedia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 22 Jan 2023 11:59:58 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jan 2023 11:59:58 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Rester au top en tant qu&#39;UX/UI Designer</title>
-      <link>/articles/test-veilleuxdesigner/</link>
-      <pubDate>Sun, 22 Jan 2023 11:59:58 +0100</pubDate>
+      <title>Le contexte culturel en UX </title>
+      <link>/articles/resume02-contexte-culturel-ux/</link>
+      <pubDate>Sat, 28 Jan 2023 11:59:58 +0100</pubDate>
       
-      <guid>/articles/test-veilleuxdesigner/</guid>
-      <description>Le métier de designer UX/UI nécessite des connaissances approfondies en matière de graphisme et la capacité à interpréter les besoins des utilisateurs d&amp;rsquo;une interface. Cependant, pour réussir dans ce domaine, il est essentiel de rester constamment à jour sur les dernières tendances pour éviter que nos projets ne soient dépassés et banals.
- Le web regorge de personnes partageant leurs travaux pour montrer leurs compétences ou demander des conseils. Il est parfois bon de faire des recherches, de regarder autour de soi et de ne retenir que les choses les plus importantes et qui nous intéressent.</description>
+      <guid>/articles/resume02-contexte-culturel-ux/</guid>
+      <description>Le contexte culturel en UX. En ce qui concerne ce sujet, j&amp;rsquo;ai effectué des recherches plus approfondies. Cependant, je vous laisse ci-dessous un résumé de l&amp;rsquo;article le plus complet que j&amp;rsquo;ai trouvé. Depuis que j&amp;rsquo;ai commencé mon parcours en tant qu&amp;rsquo;ingénieur des médias, j&amp;rsquo;ai toujours souhaité mettre en avant ma créativité. Entre deux cours, j&amp;rsquo;ai découvert le monde de l&amp;rsquo;UX design qui m&amp;rsquo;a permis de développer les notions que je préfère.</description>
     </item>
     
     <item>
-      <title>L&#39;importance de l&#39;UI pour les applications mobiles</title>
-      <link>/articles/test-uiappmobiles/</link>
-      <pubDate>Mon, 12 Dec 2022 12:08:37 +0100</pubDate>
+      <title>Les 8 meilleures tendances en UX Design de 2023</title>
+      <link>/articles/resume01-trends-uidesign-2023/</link>
+      <pubDate>Tue, 24 Jan 2023 11:59:58 +0100</pubDate>
       
-      <guid>/articles/test-uiappmobiles/</guid>
-      <description>L&amp;rsquo;interface utilisateur (UI) joue un rôle crucial dans les applications mobiles. C&amp;rsquo;est ce que l&amp;rsquo;utilisateur voit et interagit avec lorsqu&amp;rsquo;il utilise une application, et c&amp;rsquo;est ce qui peut faire la différence entre une application réussie et une application qui ne fonctionne pas bien.
-Une bonne UI doit être intuitive et facile à utiliser. Elle doit permettre à l&amp;rsquo;utilisateur de naviguer facilement dans l&amp;rsquo;application et de trouver ce qu&amp;rsquo;il cherche sans trop d&amp;rsquo;efforts.</description>
-    </item>
-    
-    <item>
-      <title>Des spécialisations en tant que UX/UI Designer</title>
-      <link>/articles/test-specialisationsuxdesigner/</link>
-      <pubDate>Mon, 12 Dec 2022 11:59:58 +0100</pubDate>
-      
-      <guid>/articles/test-specialisationsuxdesigner/</guid>
-      <description>Voici quelques domaines spécifiques dans lesquels un designer UX/UI peut se spécialiser :
-Design mobile : Ce domaine concerne la conception d&amp;rsquo;interfaces utilisateur pour les appareils mobiles, tels que les smartphones et les tablettes. Les designers doivent tenir compte des contraintes d&amp;rsquo;écran plus petites et des interactions tactiles dans la conception de ces interfaces.
-Design de sites web : Ce domaine concerne la conception d&amp;rsquo;interfaces utilisateur pour les sites web. Les designers doivent tenir compte des différentes tailles d&amp;rsquo;écran et des interactions à la souris dans la conception de ces interfaces.</description>
-    </item>
-    
-    <item>
-      <title>Le kit de survie d&#39;un UX/UI Designer</title>
-      <link>/articles/test-outilsuxdesigner/</link>
-      <pubDate>Mon, 12 Dec 2022 11:59:58 +0100</pubDate>
-      
-      <guid>/articles/test-outilsuxdesigner/</guid>
-      <description>Les outils incontournables pour les designers UX/UI varient en fonction de leurs préférences et de leurs projets, mais voici quelques-uns qui sont souvent considérés comme étant essentiel.
- Les outils de :
-  Wireframing et prototypage : tels que Sketch, Figma, Adobe XD, InVision, ils permettent aux designers de créer des maquettes de leurs interfaces pour visualiser et tester leurs idées avant de les mettre en production.
-  Design : tels que Adobe Photoshop, Adobe Illustrator, Sketch, ils permettent aux designers de créer des interfaces visuellement attrayantes et professionnelles.</description>
+      <guid>/articles/resume01-trends-uidesign-2023/</guid>
+      <description>J&amp;rsquo;ai choisi cet article car, comme nous l&amp;rsquo;avons appris lors du cours de laboratoire de veille technologique à l&amp;rsquo;HEIG-VD dans le cadre de ma formation en ingénierie des médias, il est très important pour un UX Designer de suivre les tendances pour ne pas offrir à ses clients des visuels dépassés qui ne donnent pas envie d&amp;rsquo;être utilisés.
+ Voici donc les principales tendances en UX design à découvrir en 2023.</description>
     </item>
     
     <item>
@@ -56,16 +32,6 @@ Design de sites web : Ce domaine concerne la conception d&amp;rsquo;interfaces u
       
       <guid>/articles/05monsystemeveille/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Mon portfolio dans le domaine de l&#39;UX Design</title>
-      <link>/articles/portfolioux/</link>
-      <pubDate>Mon, 12 Dec 2022 11:59:58 +0100</pubDate>
-      
-      <guid>/articles/portfolioux/</guid>
-      <description>bla bla
-https://uxplanet.org/how-to-structure-your-first-ux-design-portfolio-7b51576a04df</description>
     </item>
     
   </channel>
