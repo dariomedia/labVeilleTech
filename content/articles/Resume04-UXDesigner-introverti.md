@@ -1,5 +1,5 @@
 ---
-title: "Nous, ces introvertis de designers UX"
+title: "Nous, ces introvertis de Designers UX"
 date: 2023-01-28T11:59:58+01:00
 draft: false
 ---
