@@ -103,9 +103,9 @@
         {{- $currentPage := . }}
         <ul id="menu">
             <!-- MODIFIER LE LIEN DE LA PAGE HOME -->
-            <li>
+            <!-- <li>
                 <a href="/labVeilleTech/" title="Home"><span>Home</span></a>
-            </li>
+            </li> -->
             {{- range .Site.Menus.main }}
             {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
             {{- $page_url:= $currentPage.Permalink | absLangURL }}
