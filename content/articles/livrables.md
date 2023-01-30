@@ -4,6 +4,10 @@ date: 2022-12-12T11:59:58+01:00
 draft: true
 ---
 <!-- 
+
+Voici les enoncés de la page à propos et des articles :
+
+
 a propos : ---OK
 - texte
 - ikigai
@@ -24,11 +28,12 @@ a propos : ---OK
 - apprentissage
 - idées d'application de la méthode
 
-1 page de veille :
 
+1 page de veille :
 - sources
 - emetteurs
 - boule ?
 - pourquoi
+
  -->
 
